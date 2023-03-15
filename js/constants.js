@@ -1,4 +1,4 @@
 'use strict';
 
-exports.SECURITY_CONTEXT_V1_URL = 'https://w3id.org/security/v1';
-exports.SECURITY_CONTEXT_V2_URL = 'https://w3id.org/security/v2';
+exports.SECURITY_CONTEXT_V1_URL = 'https://client.did.kloudlearn.com/public/security-v1.jsonld';
+exports.SECURITY_CONTEXT_V2_URL = 'https://client.did.kloudlearn.com/public/security-v2.jsonld';
